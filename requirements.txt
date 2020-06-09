@@ -2,3 +2,5 @@ anaconda==0.0.1.1
 ipython==7.12.0
 jupyter==1.0.0
 numpy==1.18.1
+seaborn==0.10.0
+matplotlib==3.1.3
