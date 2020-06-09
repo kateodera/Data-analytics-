@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03fab6fa-c48c-4ab3-9dd4-f510821e00a7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datap.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datap2.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datap3.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datap4.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datap5.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CountryData.IND.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA VISUALIZATION WITH PANDAS.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Observation value.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/country data analysis.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scatterplots.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bar and box charts.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/bar and box charts.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pie charts.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pie charts.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,11 +28,15 @@
   </component>
   <component name="JupyterTrust" id="d6e3ccc2-11ad-4da3-b8bc-f2cc47fe9057">
     <option name="files">
+      <option value="DATA VISUALIZATION WITH PANDAS.ipynb" />
+      <option value="Observation value.ipynb" />
+      <option value="bar and box charts.ipynb" />
+      <option value="country data analysis.ipynb" />
       <option value="datap.ipynb" />
       <option value="datap2.ipynb" />
       <option value="datap3.ipynb" />
-      <option value="datap4.ipynb" />
-      <option value="datap5.ipynb" />
+      <option value="pie charts.ipynb" />
+      <option value="scatterplots.ipynb" />
     </option>
   </component>
   <component name="ProjectId" id="1XT4arg8QRULp0ysn7imw0eOMLI" />
@@ -83,7 +87,7 @@
       <workItem from="1582694724772" duration="281000" />
       <workItem from="1584600198553" duration="327000" />
       <workItem from="1584601090383" duration="894000" />
-      <workItem from="1591602963372" duration="8382000" />
+      <workItem from="1591602963372" duration="10650000" />
     </task>
     <servers />
   </component>
