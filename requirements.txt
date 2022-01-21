@@ -1,5 +1,5 @@
 anaconda==0.0.1.1
-ipython==7.12.0
+ipython==7.16.3
 jupyter==1.0.0
 numpy==1.18.1
 seaborn==0.10.0
